@@ -1,2 +1,2 @@
 # eMLon
-ML experimentation project
+Collection of various ML course work, experimentation & general fun bits of code.
